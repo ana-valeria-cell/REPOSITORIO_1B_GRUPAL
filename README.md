@@ -15,11 +15,11 @@ Desarrollar un enfoque interdisciplinario (fisioterapia, terapia ocupacional, ap
 
 | Foto | Nombre | Rol |
 |------|--------|-----|
-- [SEBASTIAN XAVIER CRUZ FLORES] (https://imgur.com/5sJFr8v))
-- [MAURICIO JOAQUIN ESPINOZA POZO] (https://imgur.com/9kIP4nP)
-- [VANESA NOLA GUERRA CANCHARI](https://imgur.com/undefined)
-- [PABLO LAURENTE SALAZAR] (https://imgur.com/nVjAHkh)
-- Mori Tiznado, Ana Valeria
+| ![Nombre1](multimedia/nombre1.jpg) |Sebastián Xavier Cruz Flores  | Líder de proyecto |
+| ![Nombre2](multimedia/nombre2.jpg) | Mauricio Joaquín Espinoza Pozo | Diseñador de prótesis |
+| ![Nombre3](multimedia/nombre3.jpg) | Vanesa Nola Guerra Canchari | Responsable de fisioterapia |
+| ![Nombre4](multimedia/nombre4.jpg) | Pablo Laurente Salazar | Desarrollo de app |
+| ![Nombre5](multimedia/nombre5.jpg) | Ana Valeria Mori Tiznado | Documentación y soporte técnico |
 
 
 
