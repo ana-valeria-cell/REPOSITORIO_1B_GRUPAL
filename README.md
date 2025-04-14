@@ -11,8 +11,11 @@ Desarrollar un enfoque interdisciplinario (fisioterapia, terapia ocupacional, ap
 - Seguimiento de terapia y avances con documentación colaborativa
 
 ## 👥 Integrantes
-- 
-- 
+- Cruz Flores, Sebastian
+- Espinoza Pozo, Mauricio
+- Guerra Vanesa
+- Laurente Salazar, Pablo
+- Mori Tiznado, Ana Valeria
 
 ## 📁 Estructura del repositorio
 - `docs/`: Documentos clínicos y planificación
@@ -20,8 +23,7 @@ Desarrollar un enfoque interdisciplinario (fisioterapia, terapia ocupacional, ap
 - `diseño_protesis/`: Archivos CAD para el guante estético
 - `multimedia/`: Presentaciones e imágenes de apoyo
 
-## 🚀 Estado actual
-✅ Historia clínica revisada  
+ 
 ✅ Plan de terapias definido  
 🔄 Desarrollo de guante estético en proceso  
 🔄 App de ejercicios funcionales en diseño
