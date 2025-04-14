@@ -12,10 +12,13 @@ Desarrollar un enfoque interdisciplinario (fisioterapia, terapia ocupacional, ap
 
 
 ### 👥 Integrantes
-- Cruz Flores, Sebastian
-- Espinoza Pozo, Mauricio
-- Guerra Canchari, Vanesa
-- Laurente Salazar, Pablo
+
+| Foto | Nombre | Rol |
+|------|--------|-----|
+- [SEBASTIAN XAVIER CRUZ FLORES] (https://imgur.com/5sJFr8v))
+- [MAURICIO JOAQUIN ESPINOZA POZO] (https://imgur.com/9kIP4nP)
+- [VANESA NOLA GUERRA CANCHARI](https://imgur.com/undefined)
+- [PABLO LAURENTE SALAZAR] (https://imgur.com/nVjAHkh)
 - Mori Tiznado, Ana Valeria
 
 
