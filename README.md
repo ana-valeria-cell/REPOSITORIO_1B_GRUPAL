@@ -2,9 +2,10 @@
 
 Bienvenidos al repositorio del grupo 07 
 
-Este es un espacio donde compartiremos cada uno de nuestros progresos, análisis e investigaciones acerca del caso clínico basado en la amputación que iremos trabajando cada semana. Pueden visualizar los avances en la sección de Entregables. 
+Este es un espacio donde compartiremos cada uno de nuestros progresos, análisis e investigaciones acerca del caso clínico basado en la amputación que iremos trabajando cada semana. Pueden visualizar los avances en la sección de "ENTREGABLES". 
 
-![FOTO GRUPAL](multimedia/GRUPO.jpg) 
+<img src="multimedia/GRUPO.jpg" width="550">
+ 
 
 ### Contenido del curso
 - Unidad Didáctica 1: Identificar la necesidad o el problema
