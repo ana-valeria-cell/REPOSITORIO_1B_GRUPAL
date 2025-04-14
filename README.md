@@ -1,6 +1,6 @@
 ## BIENVENIDOS AL GRUPO 7
 
-[FOTO GRUPAL](https://imgur.com/a/IU5xCC0)
+![FOTO GRUPAL](multimedia/GRUPO.jpg) 
 
 
 ### Proyecto de Rehabilitación Integral – Paciente 3
@@ -19,7 +19,7 @@ Desarrollar un enfoque interdisciplinario (fisioterapia, terapia ocupacional, ap
 | ![Nombre2](multimedia/mauricio.jpg) | Mauricio Joaquín Espinoza Pozo | Diseñador de prótesis |
 | ![Nombre3](multimedia/vanesa.jpg) | Vanesa Nola Guerra Canchari | Responsable de fisioterapia |
 | ![Nombre4](multimedia/pablo.jpg) | Pablo Laurente Salazar | Desarrollo de app |
-| ![Nombre5](multimedia/nombre5.jpg) | Ana Valeria Mori Tiznado | Documentación y soporte técnico |
+
 
 
 
