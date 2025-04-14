@@ -16,9 +16,10 @@ Desarrollar un enfoque interdisciplinario (fisioterapia, terapia ocupacional, ap
 | Foto | Nombre | Rol |
 |------|--------|-----|
 | ![Nombre1](multimedia/sebastian.jpg) |Sebastián Xavier Cruz Flores  | Coordinador y prototipado electrónico |
-| ![Nombre2](multimedia/mauricio.jpg) | Mauricio Joaquín Espinoza Pozo | Diseño y manufactura digital |
+| ![Nombre2](multimedia/mauricio.jpg) | Mauricio Joaquín Espinoza Pozo | Prototipado electrónico |
 | ![Nombre3](multimedia/vanesa.jpg) | Vanesa Nola Guerra Canchari | Prototipado electrónico |
 | ![Nombre4](multimedia/pablo.jpg) | Pablo Laurente Salazar | Diseño y manufactura digital |
+| ![Nombre5](multimedia/ana_valeria.jpg) | Ana Valeria Mori Tiznado | Diseño y manufactura digital |
 
 
 
