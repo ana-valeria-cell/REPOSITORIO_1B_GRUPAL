@@ -16,9 +16,9 @@ Desarrollar un enfoque interdisciplinario (fisioterapia, terapia ocupacional, ap
 | Foto | Nombre | Rol |
 |------|--------|-----|
 | ![Nombre1](multimedia/sebastian.jpg) |Sebastián Xavier Cruz Flores  | Líder de proyecto |
-| ![Nombre2](multimedia/nombre2.jpg) | Mauricio Joaquín Espinoza Pozo | Diseñador de prótesis |
-| ![Nombre3](multimedia/nombre3.jpg) | Vanesa Nola Guerra Canchari | Responsable de fisioterapia |
-| ![Nombre4](multimedia/nombre4.jpg) | Pablo Laurente Salazar | Desarrollo de app |
+| ![Nombre2](multimedia/mauricio.jpg) | Mauricio Joaquín Espinoza Pozo | Diseñador de prótesis |
+| ![Nombre3](multimedia/vanesa.jpg) | Vanesa Nola Guerra Canchari | Responsable de fisioterapia |
+| ![Nombre4](multimedia/pablo.jpg) | Pablo Laurente Salazar | Desarrollo de app |
 | ![Nombre5](multimedia/nombre5.jpg) | Ana Valeria Mori Tiznado | Documentación y soporte técnico |
 
 
