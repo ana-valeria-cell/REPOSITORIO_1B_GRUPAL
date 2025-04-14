@@ -1,5 +1,6 @@
-## BIENVENIDOS AL GRUPO 7
+## FUNDAMENTOS DE BIODISEÑO - GRUPO 07 - CICLO 2025.1
 
+Bienvenidos al repositorio del grupo 07 
 ![FOTO GRUPAL](multimedia/GRUPO.jpg) 
 
 
