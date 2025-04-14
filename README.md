@@ -28,13 +28,13 @@ Desarrollar un enfoque interdisciplinario (fisioterapia, terapia ocupacional, ap
 
 ### 👥 Integrantes
 
-| Foto | Nombre | Rol |
-|------|--------|-----|
-| ![Nombre1](multimedia/sebastian.jpg) |Sebastián Xavier Cruz Flores  | Coordinador y prototipado electrónico |
-| ![Nombre2](multimedia/mauricio.jpg) | Mauricio Joaquín Espinoza Pozo | Prototipado electrónico |
-| ![Nombre3](multimedia/vanesa.jpg) | Vanesa Nola Guerra Canchari | Diseño y manufactura digital |
-| ![Nombre4](multimedia/pablo.jpg) | Pablo Laurente Salazar | Prototipado electrónico |
-| ![Nombre5](multimedia/ana_valeria1.jpg) | Ana Valeria Mori Tiznado | Diseño y manufactura digital |
+| Foto  | Nombre                        | Rol                                |
+|-------|-------------------------------|------------------------------------|
+| <img src="multimedia/sebastian.jpg" width="150"> | Sebastián Xavier Cruz Flores     | Coordinador y prototipado electrónico |
+| <img src="multimedia/mauricio.jpg" width="150">  | Mauricio Joaquín Espinoza Pozo   | Prototipado electrónico           |
+| <img src="multimedia/vanesa.jpg" width="150">    | Vanesa Nola Guerra Canchari      | Diseño y manufactura digital      |
+| <img src="multimedia/pablo.jpg" width="150">     | Pablo Laurente Salazar           | Prototipado electrónico           |
+| <img src="multimedia/ana_valeria.jpg" width="150"> | Ana Valeria Mori Tiznado        | Diseño y manufactura digital      |
 
 ### Temática del proyecto
 
