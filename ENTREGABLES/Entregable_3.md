@@ -7,7 +7,7 @@
 Las amputaciones, especialmente de extremidades inferiores, se deben principalmente a:
 
 - **Diabetes mellitus**:  
-  - Responsable del 70% de amputaciones a nivel mundial.[1]
+  - Responsable del 70% de amputaciones a nivel mundial. [1]
   - Asociada a pie diabético, neuropatía periférica e infecciones.  
 
 - **Neuropatía diabética**:  
@@ -17,10 +17,10 @@ Las amputaciones, especialmente de extremidades inferiores, se deben principalme
   - Pie diabético infectado, con alta probabilidad de infección por bacterias multirresistentes. [2]
 
 - **Aterosclerosis y enfermedad arterial periférica**:  
-  - Obstrucción del flujo sanguíneo que impide la cicatrización de heridas.[3]
+  - Obstrucción del flujo sanguíneo que impide la cicatrización de heridas. [3]
 
 - **Otros factores**:  
-  - Tabaquismo, hipertensión, obesidad, hiperlipidemia.[3]
+  - Tabaquismo, hipertensión, obesidad, hiperlipidemia. [3]
 
 ## 2. Epidemiología y Prevalencia
 
