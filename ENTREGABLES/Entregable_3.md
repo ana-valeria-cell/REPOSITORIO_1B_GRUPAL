@@ -46,7 +46,7 @@ Las amputaciones, especialmente de extremidades inferiores, se deben principalme
 
 [1] Organización Médica Colegial de España, "La diabetes es la primera causa de amputación de extremidades en el mundo", *Medicos y Pacientes*, 2018. [En línea]. Disponible: https://www.medicosypacientes.com/articulo/la-diabetes-es-la-primera-causa-de-amputacion-de-extremidades-en-el-mundo
 
-[2] Divulga Científica Perú – CONCYTEC, "El 17% de los peruanos internados por pie diabético está en riesgo de sufrir una amputación mayor", *divulga.cientifica.edu.pe*, 2021. [En línea]. Disponible: https://divulga.cientifica.edu.pe/nuestra-ciencia/el-17-de-los-peruanos-internados-por-pie-diabetico-esta-en-riesgo-de-sufrir-una-amputacion-mayor
+[2] J. A. Aragón-Durand et al., "Nationwide prevalence and clinical characteristics of inpatient diabetic foot in Peru," Primary Care Diabetes, vol. 15, no. 3, pp. 1–6, 2021. [En línea]. Disponible: https://pubmed.ncbi.nlm.nih.gov/33664012/​
 
 [3] Sanitas, "Amputación de extremidades", *Sanitas.es*, [En línea]. Disponible: https://www.sanitas.es/biblioteca-de-salud/tercera-edad/control-patologias-cronicas/amputacion-extremidades
 
