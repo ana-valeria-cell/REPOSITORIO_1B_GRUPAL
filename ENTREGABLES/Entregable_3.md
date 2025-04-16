@@ -86,6 +86,8 @@ El objetivo final es restaurar la movilidad e independencia del paciente. Esto i
 
 Las prótesis mioeléctricas utilizan señales eléctricas generadas por los músculos residuales del usuario para controlar los movimientos de la prótesis. Estas prótesis permiten realizar movimientos más naturales y precisos, mejorando la funcionalidad en actividades diarias. Están compuestas por electrodos que detectan la actividad muscular, procesadores de señales y actuadores que ejecutan los movimientos.[10]
 
+<img src="multimedia/PROTESIS.jpg" width="550">
+
 
 **PRÓTESIS OSTEOINTEGRADAS**
 
