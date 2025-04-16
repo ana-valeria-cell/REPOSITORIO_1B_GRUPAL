@@ -1,6 +1,6 @@
 ## FUNDAMENTOS DE BIODISEÑO - GRUPO 07 - CICLO 2025.1
 
-**Bienvenidos al repositorio del grupo 07**
+**BIENVENIDOS AL REPOSITORIO DEL GRUPO 07**
 
 Este es un espacio donde compartiremos cada uno de nuestros progresos, análisis e investigaciones acerca del caso clínico basado en la amputación que iremos trabajando cada semana. Pueden visualizar los avances en la sección de "ENTREGABLES". 
 
