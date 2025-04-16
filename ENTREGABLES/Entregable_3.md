@@ -82,74 +82,74 @@ El objetivo final es restaurar la movilidad e independencia del paciente. Esto i
 
 Las prótesis mioeléctricas utilizan señales eléctricas generadas por los músculos residuales del usuario para controlar los movimientos de la prótesis. Estas prótesis permiten realizar movimientos más naturales y precisos, mejorando la funcionalidad en actividades diarias. Están compuestas por electrodos que detectan la actividad muscular, procesadores de señales y actuadores que ejecutan los movimientos. [10]
 
-<img src="multimedia/PROTESIS_MIOELECTRICAS.jpg" width="550">
+![Gráfico de resultados](../multimedia/PROTESIS_MIOELECTRICAS.jpg)
 
 
   **PRÓTESIS OSTEOINTEGRADAS**
 
 La osteointegración es una técnica quirúrgica que conecta directamente una prótesis al hueso del miembro residual, eliminando la necesidad de un encaje tradicional. Esta conexión directa mejora la transmisión de fuerzas, proporciona una mayor estabilidad y puede ofrecer retroalimentación sensorial al usuario, mejorando la percepción del entorno y la integración de la prótesis. [11]
 
-<img src="multimedia/PROTESIS_OSTEOINTEGRADAS.jpg" width="550">
+![Gráfico de resultados](../multimedia/PROTESIS_OSTEOINTEGRADAS.jpg)
 
   **PRÓTESIS CONTROLADAS POR SEÑALES CEREBRALES**
 
 Investigadores han desarrollado tecnologías que permiten a las personas con amputaciones controlar prótesis robóticas mediante señales cerebrales. Utilizando interfaces neuronales y algoritmos de aprendizaje profundo, estas prótesis interpretan las intenciones del usuario, permitiendo movimientos más intuitivos y naturales. Este avance representa un paso significativo hacia la integración de sistemas prostéticos con el sistema nervioso humano. [12]
 
-<img src="multimedia/SEÑALES_CEREBRALES.jpg" width="550">
+<img src="../multimedia/SEÑALES_CEREBRALES.jpg" alt="Gráfico de resultados" width="300">
 
 
 ## *ENFOQUE PSICOSOCIALES*
 
-Tras una amputación es importante recibir un apoyo psicológico, debido a que es importante afrontar de forma positiva la nueva vida para poder adaptarse a la sociedad y a una nueva calidad de vida,esto varía en la personalidad,circunstancias,etc para poder ayudar con el autoestima saludable y motivar al paciente para bien [13]. En el caso de nuestro paciente que es una amputación adolescente lo cual es una gran amenaza para la identidad sexual emergente. Por ejemplo una reacción de un niño de 13 años ante la noticia de que era necesaria una amputación de pierna para curar su sarcoma osteogénico con la declaración: “Ningún niño me va a mirar”  [14].Por esta razón es recomendable mejorar las redes de apoyo del paciente.
-- Proveer apoyo emocional: Distraer al paciente con sus actividades y temas de conversación favoritos o escuchar sus penas. El propósito principal de esta función es cuidar la salud mental de la persona y dejarle saber que no está sola.
+Tras una amputación es importante recibir un apoyo psicológico, debido a que es importante afrontar de forma positiva la nueva vida para poder adaptarse a la sociedad y a una nueva calidad de vida,esto varía en la personalidad,circunstancias,etc para poder ayudar con el autoestima saludable y motivar al paciente para bien [13]. En el caso de nuestro paciente que es una amputación adolescente lo cual es una gran amenaza para la identidad sexual emergente. Por ejemplo una reacción de un niño de 13 años ante la noticia de que era necesaria una amputación de pierna para curar su sarcoma osteogénico con la declaración: “Ningún niño me va a mirar” [14].Por esta razón es recomendable mejorar las redes de apoyo del paciente.
+
+-Proveer apoyo emocional: Distraer al paciente con sus actividades y temas de conversación favoritos o escuchar sus penas. El propósito principal de esta función es cuidar la salud mental de la persona y dejarle saber que no está sola.
   
-- Ayudar con las relaciones sociales: Es posible que la persona se distancie socialmente y, aunque es saludable darle su espacio, es perjudicial si se aísla demasiado de sus círculos sociales. Para proveer este tipo de apoyo, es importante pasar un rato entre amigos y seres queridos.
+-Ayudar con las relaciones sociales: Es posible que la persona se distancie socialmente y, aunque es saludable darle su espacio, es perjudicial si se aísla demasiado de sus círculos sociales. Para proveer este tipo de apoyo, es importante pasar un rato entre amigos y seres queridos.
 
-- Proveer ayuda material e instrumental: Esto requiere estar dispuesto a proveer ayuda física con tareas del hogar también puede incluir proveer bienes materiales que le hagan falta o recolectar dinero.
+-Proveer ayuda material e instrumental: Esto requiere estar dispuesto a proveer ayuda física con tareas del hogar también puede incluir proveer bienes materiales que le hagan falta o recolectar dinero.
 
-- Ser una guía cognitiva: El paciente ha pasado por un gran cambio en su vida, por eso podemos ayudar a buscar información sobre las amputaciones y ofrecerles consejos. Generalmente, esta es una función profesional (psicólogo).[13]
+-Ser una guía cognitiva: El paciente ha pasado por un gran cambio en su vida, por eso podemos ayudar a buscar información sobre las amputaciones y ofrecerles consejos. Generalmente, esta es una función profesional (psicólogo).[13]
 
 
-# ANÁLISIS DEL CONTEXTO DEL CASO, FACTORES QUE RODEAN Y AFECTAN EL DESARROLLO Y LA PREVALENCIA DE LA ENFERMEDAD
+# ANÁLISIS DEL CONTEXTO DEL CASO
 
 ## 1. Factores de Riesgo y Causas
 
 Las amputaciones, especialmente de extremidades inferiores, se deben principalmente a:
 
-- **Diabetes mellitus**:  
-  - Responsable del 70% de amputaciones a nivel mundial. [15]
-  - Asociada a pie diabético, neuropatía periférica e infecciones.  
+ **- Diabetes mellitus**:  Responsable del 70% de amputaciones a nivel mundial. [15]. Asociada a pie diabético, neuropatía periférica e infecciones.  
 
-- **Neuropatía diabética**:  
-  - Pérdida de sensibilidad en los pies que favorece lesiones no detectadas. [15]
+ **- Neuropatía diabética**: Pérdida de sensibilidad en los pies que favorece lesiones no detectadas. [15]
 
-- **Infecciones**:  
-  - Pie diabético infectado, con alta probabilidad de infección por bacterias multirresistentes.
+  **- Infecciones**: Pie diabético infectado, con alta probabilidad de infección por bacterias multirresistentes.
 
-- **Aterosclerosis y enfermedad arterial periférica**:  
-  - Obstrucción del flujo sanguíneo que impide la cicatrización de heridas. 
+  **- Aterosclerosis y enfermedad arterial periférica**: Obstrucción del flujo sanguíneo que impide la cicatrización de heridas. 
 
-- **Otros factores**:  
-  - Tabaquismo, hipertensión, obesidad, hiperlipidemia. 
+  **- Otros factores**: Tabaquismo, hipertensión, obesidad, hiperlipidemia. 
 
 ## 2. Epidemiología y Prevalencia
 
-### A nivel mundial
+### A nivel mundial: 
 
-- Se estima que ocurre una amputación cada **30 segundos** debido a complicaciones de diabetes. [16]
-- **Diabetes tipo 2** representa el 85-90% de los casos de diabetes. [17]
+-Se estima que ocurre una amputación cada **30 segundos** debido a complicaciones de diabetes. [16]
+
+-**Diabetes tipo 2** representa el 85-90% de los casos de diabetes. [17]
   
-### En Perú
+### En Perú:
 
-- **8%** de la población padece diabetes y solo **35%** mantiene control glucémico adecuado.
-- En el Hospital Nacional Guillermo Almenara, el **40.1%** de pacientes hospitalizados con pie diabético sufren amputaciones con edad promedio de 68.8 años. [18]
+-**8%** de la población padece diabetes y solo **35%** mantiene control glucémico adecuado.
+-En el Hospital Nacional Guillermo Almenara, el **40.1%** de pacientes hospitalizados con pie diabético sufren amputaciones con edad promedio de 68.8 años. [18]
+
     
 ## 3. Grupos de Riesgo y Factores Asociados
 
-- **Edad**: Mayores de 65 años son los más afectados. [19]
-- **Género**: Mayor incidencia en hombres (65%). [18]
-- **Estilo de vida**: Sedentarismo, mala alimentación, tabaquismo.
-- **Acceso a la salud**: Diagnóstico tardío y falta de atención especializada aumentan el riesgo.
+**- Edad**: Mayores de 65 años son los más afectados. [19]
+
+**- Género**: Mayor incidencia en hombres (65%). [18]
+
+**- Estilo de vida**: Sedentarismo, mala alimentación, tabaquismo.
+
+**- Acceso a la salud**: Diagnóstico tardío y falta de atención especializada aumentan el riesgo.
 
 
 ## 🔗 Fuentes
