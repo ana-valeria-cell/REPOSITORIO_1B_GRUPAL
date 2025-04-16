@@ -2,9 +2,13 @@
 
 ### ÍNDICE
 
-1. [**Tratamiento inical y manejo médico**](#tratamiento-inicial-y-manejo_medico)
+1. [**TRATAMIENTO INICIAL Y MANEJO MÉDICO**](#tratamiento-inicial-y-manejo_medico)
+2. [**REHABILITACIÓN Y TERAPIA**](#rehabilitacion-y-terapia)
+3. [**TECNOLOGÍAS DE APOYO Y DISPOSITIVOS MÉDICOS**](#tecnologias-de-apoyo-y-dispositivos-medicos)
+4. [**ENFOQUE PSICOSOCIALES**](#enfoques-psicosociales)
+5. 
 
-## Tratamiento inical y manejo médico
+## *TRATAMIENTO INICIAL Y MANEJO MÉDICO*
 
 Cuando una persona sufre una amputación, el tratamiento médico que se realiza en las primeras etapas es fundamental. Por ello es clave atender las condiciones necesarias para que el paciente pueda iniciar su recuperación con éxito. Por ese motivo desde el primer instante se pone énfasis en controlar el dolor, cuidar adecuadamente la zona afectada, más específicamente la parte del muñón. De esa manera prevenir cualquier tipo de complicación como infecciones o inflamaciones.[1]
 
@@ -30,7 +34,7 @@ La persona con diabetes que sufre una amputación, es esencial que controle los 
 
 **Educación nutricional y promoción de hábitos saludables:** Adoptar una alimentación equilibrada y mantener hábitos de vida saludables es esencial en el manejo de la diabetes. Una dieta con fibra proveniente de frutas, verduras, legumbres y cereales integrales, ayuda a regular los niveles de glucosa en sangre y mejora la sensibilidad a la insulina.[7] Además el ejercicio físico regular, adaptado a las capacidades de cada individuo, contribuye al control glucémico, a mantener un peso corporal saludable y a la mejora de la salud cardiovascular. Actividades como caminar, nadar o andar en bicicleta son recomendadas para personas con diabetes.[8]
 
-## Rehabilitación y terapia:
+## *REHABILITACIÓN Y TERAPIA*
 
 La terapia para la extremidad residual, la adaptación a una prótesis y el proceso de rehabilitación tras una amputación de mano son fundamentales para recuperar la funcionalidad y lograr un mejor resultado en la mejora del paciente. Algunos puntos clave en la recuperación y tratamiento son los siguientes:
 
@@ -58,47 +62,51 @@ Después de una amputación, es fundamental estabilizar al paciente y preparar l
    
 El proceso de adaptación a una prótesis de mano implica varias fases:
 
-**- Selección de la prótesis:** Existen prótesis mecánicas, mioeléctricas y estéticas, cada una con ventajas específicas.
+   **- Selección de la prótesis:** Existen prótesis mecánicas, mioeléctricas y estéticas, cada una con ventajas específicas.
 
-**- Ejercicios de control y movilidad:** Se enseña al paciente a manipular la prótesis con precisión.
+   **- Ejercicios de control y movilidad:** Se enseña al paciente a manipular la prótesis con precisión.
 
-**- Uso en actividades diarias:** Se realizan entrenamientos para tareas como agarrar objetos, escribir y realizar movimientos finos.
+   **- Uso en actividades diarias:** Se realizan entrenamientos para tareas como agarrar objetos, escribir y realizar movimientos finos.
 
 ###   **3. Manejo del síndrome del miembro fantasma**
    
 Algunas personas experimentan sensaciones en la extremidad amputada, lo que puede requerir:
 
-**- Terapia de espejo:** Ayuda a reducir el dolor y mejorar la percepción sensorial.
+   **- Terapia de espejo:** Ayuda a reducir el dolor y mejorar la percepción sensorial.
 
-**- Estimulación nerviosa:** Técnicas como la estimulación eléctrica pueden aliviar molestias.
+   **- Estimulación nerviosa:** Técnicas como la estimulación eléctrica pueden aliviar molestias.
 
 ###  **4. Rehabilitación y reintegración**
   
 El objetivo final es restaurar la movilidad e independencia del paciente. Esto incluye:
 
-**- Terapia ocupacional:** Se trabaja en la adaptación a la vida cotidiana y el uso de herramientas específicas.
+   **- Terapia ocupacional:** Se trabaja en la adaptación a la vida cotidiana y el uso de herramientas específicas.
 
-**- Apoyo psicológico:** La amputación puede tener un impacto emocional significativo, por lo que el acompañamiento psicológico es clave.
+   **- Apoyo psicológico:** La amputación puede tener un impacto emocional significativo, por lo que el acompañamiento psicológico es clave.
 
-## Tecnologías de apoyo y dispositivos médicos
+## *TECNOLOGÍAS DE APOYO Y DISPOSITIVOS MÉDICOS*
 
-**PRÓTESIS MIOELÉCTRICAS DE MIEMBRO SUPERIOR**
+  **PRÓTESIS MIOELÉCTRICAS DE MIEMBRO SUPERIOR**
 
-Las prótesis mioeléctricas utilizan señales eléctricas generadas por los músculos residuales del usuario para controlar los movimientos de la prótesis. Estas prótesis permiten realizar movimientos más naturales y precisos, mejorando la funcionalidad en actividades diarias. Están compuestas por electrodos que detectan la actividad muscular, procesadores de señales y actuadores que ejecutan los movimientos.[10]
+Las prótesis mioeléctricas utilizan señales eléctricas generadas por los músculos residuales del usuario para controlar los movimientos de la prótesis. Estas prótesis permiten realizar movimientos más naturales y precisos, mejorando la funcionalidad en actividades diarias. Están compuestas por electrodos que detectan la actividad muscular, procesadores de señales y actuadores que ejecutan los movimientos. [10]
 
-<img src="multimedia/PROTESIS.jpg" width="550">
+<img src="multimedia/PRÓTESIS_MIOELÉCTRICAS_DE _MIEMBRO_SUPERIOR.jpg" width="550">
 
 
-**PRÓTESIS OSTEOINTEGRADAS**
+  **PRÓTESIS OSTEOINTEGRADAS**
 
 La osteointegración es una técnica quirúrgica que conecta directamente una prótesis al hueso del miembro residual, eliminando la necesidad de un encaje tradicional. Esta conexión directa mejora la transmisión de fuerzas, proporciona una mayor estabilidad y puede ofrecer retroalimentación sensorial al usuario, mejorando la percepción del entorno y la integración de la prótesis. [11]
 
-**PRÓTESIS CONTROLADAS POR SEÑALES CEREBRALES**
+<img src="multimedia/Prótesis_osteointegradas.jpg" width="550">
 
-Investigadores han desarrollado tecnologías que permiten a las personas con amputaciones controlar prótesis robóticas mediante señales cerebrales. Utilizando interfaces neuronales y algoritmos de aprendizaje profundo, estas prótesis interpretan las intenciones del usuario, permitiendo movimientos más intuitivos y naturales. Este avance representa un paso significativo hacia la integración de sistemas prostéticos con el sistema nervioso humano [12]
+  **PRÓTESIS CONTROLADAS POR SEÑALES CEREBRALES**
+
+Investigadores han desarrollado tecnologías que permiten a las personas con amputaciones controlar prótesis robóticas mediante señales cerebrales. Utilizando interfaces neuronales y algoritmos de aprendizaje profundo, estas prótesis interpretan las intenciones del usuario, permitiendo movimientos más intuitivos y naturales. Este avance representa un paso significativo hacia la integración de sistemas prostéticos con el sistema nervioso humano. [12]
+
+<img src="multimedia/Prótesis_controladas_por_señales_cerebrales.jpg" width="550">
 
 
-## ENFOQUE PSICOSOCIALES
+## *ENFOQUE PSICOSOCIALES*
 
 Tras una amputación es importante recibir un apoyo psicológico, debido a que es importante afrontar de forma positiva la nueva vida para poder adaptarse a la sociedad y a una nueva calidad de vida,esto varía en la personalidad,circunstancias,etc para poder ayudar con el autoestima saludable y motivar al paciente para bien [13]. En el caso de nuestro paciente que es una amputación adolescente lo cual es una gran amenaza para la identidad sexual emergente. Por ejemplo una reacción de un niño de 13 años ante la noticia de que era necesaria una amputación de pierna para curar su sarcoma osteogénico con la declaración: “Ningún niño me va a mirar”  [14].Por esta razón es recomendable mejorar las redes de apoyo del paciente.
   - Proveer apoyo emocional: Distraer al paciente con sus actividades y temas de conversación favoritos o escuchar sus penas. El propósito principal de esta función es cuidar la salud mental de la persona y dejarle saber que no está sola.
