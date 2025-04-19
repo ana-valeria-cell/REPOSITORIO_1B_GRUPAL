@@ -35,7 +35,7 @@ Desarrollar un enfoque interdisciplinario (fisioterapia, terapia ocupacional, ap
 | <img src="multimedia/mauricio.jpg" width="150">  | Mauricio Joaquín Espinoza Pozo   | Prototipado electrónico           |
 | <img src="multimedia/vanesa.jpg" width="150">    | Vanesa Nola Guerra Canchari      | Diseño y manufactura digital      |
 | <img src="multimedia/pablo.jpg" width="150">     | Pablo Laurente Salazar           | Prototipado electrónico           |
-| <img src="multimedia/ana_valeria.jpg" width="150"> | Ana Valeria Mori Tiznado        | Diseño y manufactura digital      |
+| <img src="multimedia/ana_valeria.jpg" width="150"> | Ana Valeria Mori Tiznado        | Analista de investigación        |
 
 ### Temática del proyecto
 
