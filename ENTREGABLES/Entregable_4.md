@@ -61,7 +61,6 @@ En el caso de nuestro paciente un adolescente de 15 años, la presencia de la an
 
 #### 3. SOCIALES
 
-
 ## MONITOREO DEL CASO
 
 ## BIBLIOGRAFÍA
