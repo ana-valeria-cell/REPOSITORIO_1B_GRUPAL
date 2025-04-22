@@ -61,6 +61,10 @@ En el caso de nuestro paciente un adolescente de 15 años, la presencia de la an
 
 #### 3. SOCIALES
 
+La amputación no solo implica pérdidas físicas sino que también conlleva consecuencias sobre la vida y el entorno del paciente en varios aspectos. Las personas que han sufrido una amputación enfrentan desafíos significativos para adaptarse a su nueva realidad. Esto incluye la necesidad de reconfigurar su identidad personal y social, lo que puede llevar a problemas de adaptación y, en algunos casos, a la exclusión social.
+La amputación no solo afecta a nivel físico y emocional, sino que también repercute significativamente en el entorno social del paciente. Puede comprometer su autonomía debido a actitudes de sobreprotección familiar y dependencia, además de influir en las relaciones íntimas, especialmente en personas jóvenes, como consecuencia de los cambios en la imagen corporal y la autoestima. A nivel laboral, estas secuelas se agravan por las limitaciones físicas, la estigmatización y la discriminación, lo que dificulta la integración al trabajo y puede afectar la estabilidad económica. A ello se suman los problemas asociados al uso de prótesis, como el dolor, la incomodidad o las dificultades técnicas, que interfieren en el desempeño profesional y en la adaptación al entorno laboral.
+
+
 ## MONITOREO DEL CASO
 
 ## BIBLIOGRAFÍA
