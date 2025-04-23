@@ -22,7 +22,7 @@ Estas prótesis detectan señales eléctricas de los músculos del muñón para 
 
 Operadas mediante cables y arneses que capturan el movimiento del hombro y la espalda para mover la prótesis. Son duraderas y adecuadas para trabajos físicos intensos.
 
-  #### - PRÓTESIS ENDOESQUELÉTICAS (MIEMBRO INFERIOR)
+  ##### - PRÓTESIS ENDOESQUELÉTICAS (MIEMBRO INFERIOR)
 
 Uso: Cuentan con una estructura interna modular que permite ajustes personalizados. Son comunes en amputaciones transtibiales o transfemorales y ofrecen una marcha más natural. [5]   
 
