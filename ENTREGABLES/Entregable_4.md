@@ -109,15 +109,25 @@ Se evidencia la necesidad de revisar el diseño del guante o prótesis, ya que r
 ## BIBLIOGRAFÍA
 
 [1]  Instituto Nacional de Rehabilitación (INAREPS), “Guía de atención a pacientes amputados”, Gobierno de Argentina, 2022. [Online]. Available: https://www.argentina.gob.ar/inareps/guia-atencion-pacientes-amputados/etapas
-[2] PrimeCare Orthotics & Prosthetics, “Cambios del muñón tras la amputación”, 2023. [Online]. Available: https://primecareprosthetics.com/es/blog/residual-limb-change-after-amputation
-[3] PrimeCare Orthotics & Prosthetics, “Control del dolor postamputación”, 2023. [Online]. Available: https://primecareprosthetics.com/es/blog/post-amputation-pain-management
-[4] World Federation of Societies of Anaesthesiologists (WFSA), “Manejo del dolor post amputación de una extremidad”, Anaesthesia Tutorial of the Week, 2021. [Online]. Available: https://resources.wfsahq.org/atotw/manejo-del-dolor-post-amputacion-de-una-extremidad/
-[5] MSD Manuals, “Opciones para las prótesis de los miembros,” Manuales MSD Profesionales,. Disponible en: https://www.msdmanuals.com/es-ve/professional/temas-especiales/miembro-prot%C3%A9sico/opciones-para-las-pr%C3%B3tesis-de-los-miembros
-[6] A. R. Sanz Almarza, “Tratamiento de fisioterapia en amputados de miembro inferior,” Universidad de Valladolid, 2015. Disponible en: https://uvadoc.uva.es/handle/10324/14273
-[7] P. Vega Chanalata et al., "Infección de sitio quirúrgico en muñón de amputación de miembros inferiores por pie diabético, factores de riesgo: revisión de la literatura," Rev. Médica, vol. 6, no. 5, pp. 299.2, mayo 2023.https://revistamedica.com/doi-infeccion-sitio-quirurgico-amputacion-miembros-inferiores/
-[8] A. Subedi, R. Grossberg, and J. Weiss, “Phantom limb pain: mechanisms and treatment approaches,” Pain Research and Management, vol. 2020, Article ID 6217630, 2020. [Online]. Available: https://pmc.ncbi.nlm.nih.gov/articles/PMC7413780/
-[9] J. J. López, A. M. Cárdenas, and J. M. Rodríguez, "Fisiopatología y tratamiento del dolor de miembro fantasma," Revista Colombiana de Anestesiología, vol. 41, no. 2, pp. 129–135, 2013. [Online]. Available: https://www.sciencedirect.com/science/article/pii/S0120334713001044
-[10] J. G. Orol and P. especialista en Geriatría, Consecuencias psicológicas de las amputaciones. Madrid: Universidad Rey Juan Carlos, 2010.
+
+[2]  PrimeCare Orthotics & Prosthetics, “Cambios del muñón tras la amputación”, 2023. [Online]. Available: https://primecareprosthetics.com/es/blog/residual-limb-change-after-amputation
+
+[3]  PrimeCare Orthotics & Prosthetics, “Control del dolor postamputación”, 2023. [Online]. Available: https://primecareprosthetics.com/es/blog/post-amputation-pain-management
+
+[4]  World Federation of Societies of Anaesthesiologists (WFSA), “Manejo del dolor post amputación de una extremidad”, Anaesthesia Tutorial of the Week, 2021. [Online]. Available: https://resources.wfsahq.org/atotw/manejo-del-dolor-post-amputacion-de-una-extremidad/
+
+[5]  MSD Manuals, “Opciones para las prótesis de los miembros,” Manuales MSD Profesionales,. Disponible en: https://www.msdmanuals.com/es-ve/professional/temas-especiales/miembro-prot%C3%A9sico/opciones-para-las-pr%C3%B3tesis-de-los-miembros
+
+[6]   A. R. Sanz Almarza, “Tratamiento de fisioterapia en amputados de miembro inferior,” Universidad de Valladolid, 2015. Disponible en: https://uvadoc.uva.es/handle/10324/14273
+
+[7]  P. Vega Chanalata et al., "Infección de sitio quirúrgico en muñón de amputación de miembros inferiores por pie diabético, factores de riesgo: revisión de la literatura," Rev. Médica, vol. 6, no. 5, pp. 299.2, mayo 2023.https://revistamedica.com/doi-infeccion-sitio-quirurgico-amputacion-miembros-inferiores/
+
+[8]  A. Subedi, R. Grossberg, and J. Weiss, “Phantom limb pain: mechanisms and treatment approaches,” Pain Research and Management, vol. 2020, Article ID 6217630, 2020. [Online]. Available: https://pmc.ncbi.nlm.nih.gov/articles/PMC7413780/
+
+[9]   J. J. López, A. M. Cárdenas, and J. M. Rodríguez, "Fisiopatología y tratamiento del dolor de miembro fantasma," Revista Colombiana de Anestesiología, vol. 41, no. 2, pp. 129–135, 2013. [Online]. Available: https://www.sciencedirect.com/science/article/pii/S0120334713001044
+
+[10]  J. G. Orol and P. especialista en Geriatría, Consecuencias psicológicas de las amputaciones. Madrid: Universidad Rey Juan Carlos, 2010.
+
 [11] G. N. García Rodríguez, M. León Jorge, R. Abreu Naranjo, M. Peralta Pentón, and E. Germán Pérez, "La pérdida de la cinestesia: Impacto de las amputaciones en la adolescencia," Revista Cubana de Medicina General Integral, vol. 24, no. 3, pp. 0-0, 2008
 
 
