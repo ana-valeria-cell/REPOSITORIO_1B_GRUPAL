@@ -68,7 +68,9 @@ La amputación no solo afecta a nivel físico y emocional, sino que también rep
 ## MONITOREO DEL CASO
 
 Fecha: 22-04-2025
+
 Área evaluada: Rehabilitación funcional y adaptación post-amputación
+
 Objetivo: Evaluar el progreso funcional, adaptación emocional y uso de dispositivos post-rehabilitación
 
 ####  Resumen de hallazgos
