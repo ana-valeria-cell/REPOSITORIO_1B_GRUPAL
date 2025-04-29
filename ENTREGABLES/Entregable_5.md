@@ -1,4 +1,4 @@
-## CASO 3: AMPUTACIÓN - 
+## CASO 3: AMPUTACIÓN - Prótesis pasiva modular 3D, funcional y estética
 
 ### 🟣 Problema
 
