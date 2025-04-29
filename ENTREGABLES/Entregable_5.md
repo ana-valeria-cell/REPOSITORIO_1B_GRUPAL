@@ -102,7 +102,6 @@ Ofrecer una cobertura externa que:
 **Estrategia d:** No presentan movimiento, en la fabricación se emplean materiales como el látex flexible o silicona (se podría usar para poder cubrir la prótesis mecánica, prótesis mioeléctricas, hoy en dia son muy caras)[4]
 
 <img src="../multimedia/protesis3.jpg" alt="Gráfico de resultados" width="300">
-![Gráfico de resultados](../multimedia/protesis3.jpg)
 
 
 ### 🧩 Módulos 
