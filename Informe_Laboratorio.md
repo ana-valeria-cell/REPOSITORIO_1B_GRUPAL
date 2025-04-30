@@ -14,6 +14,11 @@ Nos demuestra cómo controlar tanto la dirección como la velocidad de un motorr
 
 #### 3. MOTOR VELOCIDAD POTENCIOMETRO
 
+Muestra controlar la velocidad de un motorreductor DC GA12-N20 mediante un potenciómetro , utilizando una placa arduino y módulo controlador L298N. Este tipo de configuración es útil en aplicaciones biomédicas que requieren ajustes precisos de velocidad, como prótesis motorizadas o sistemas de asistencia robótica.
+
+
+
+
 #### 4. SERVO DS3235 ADC PWM
 
 #### 5. SERVO DS3235 CONTROL BÁSICO
@@ -35,6 +40,9 @@ En esta práctica se implementó un sistema de control de intensidad de vibraci�
 
 #### 1. FSR FEEDBAKC VIBRADOR
 
+Permite generar una señal de vibración proporcional a la presión aplicada sobre un sensor FSR. A medida que se aplica más fuerza, el motor vibrador aumenta su intensidad mediante una señal PWM. Es una forma efectiva y económica de implementar retroalimentación táctil proporcional en interfaces biomédicas o educativas.
+
+![Gráfico de resultados](../multimedia/fsr_vibrador.jpg)
 <img src="../multimedia/fsr_vibrador.jpg" alt="Gráfico de resultados" width="300">
 
 #### 2. GUANTE FLEX DS3235
