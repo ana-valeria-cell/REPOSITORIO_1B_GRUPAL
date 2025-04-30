@@ -17,11 +17,14 @@ Nos demuestra cómo controlar tanto la dirección como la velocidad de un motorr
 Muestra controlar la velocidad de un motorreductor DC GA12-N20 mediante un potenciómetro , utilizando una placa arduino y módulo controlador L298N. Este tipo de configuración es útil en aplicaciones biomédicas que requieren ajustes precisos de velocidad, como prótesis motorizadas o sistemas de asistencia robótica.
 
 
-
-
 #### 4. SERVO DS3235 ADC PWM
 
+En esta actividad se implementó el control de posición de un servomotor DS3235 mediante un potenciómetro conectado a un Arduino UNO. El valor analógico leído (ADC) del potenciómetro fue transformado directamente a un pulso PWM, con un rango entre 500 µs y 2400 µs, utilizando la función (map) en Arduino. Esta señal se envió al servomotor a través de la función (writeMicroseconds) para posicionarlo de forma proporcional a la entrada del usuario. Aunque el cálculo del ángulo no intervino en el control, se realizó una estimación lineal del mismo (0° a 265°) para mostrarla por el monitor serial como retroalimentación visual. El sistema fue alimentado mediante una fuente externa de al menos 6V y 2A, con GND común entre la fuente y el Arduino para evitar fallos de comunicación. Esta práctica es especialmente útil para el diseño de interfaces hombre-máquina en aplicaciones biomédicas como ortesis robóticas, dispositivos de terapia motora y sistemas de simulación de movimiento articular, donde es necesario ajustar manualmente la posición de un actuador con precisión proporcional.
+
+
 #### 5. SERVO DS3235 CONTROL BÁSICO
+
+En esta actividad se implementó el control básico de un servomotor digital de alto torque DS3235 utilizando una placa Arduino UNO. El objetivo fue posicionar el servo en distintos ángulos mediante pulsos PWM personalizados enviados con la función (writeMicroseconds) de la librería Servo. Se programaron cuatro posiciones representativas (0°, 90°, 180° y 270°) usando anchos de pulso que van desde 500 µs hasta 2400 µs, valores adecuados para este tipo de servos que superan el rango de los modelos estándar. El servomotor fue alimentado por una fuente externa de 6V, y se mantuvo una conexión común a tierra con el Arduino para garantizar el correcto funcionamiento. El programa realiza pausas de 5 segundos entre cada movimiento, permitiendo observar con claridad los cambios de posición. Este tipo de control es especialmente útil en aplicaciones biomédicas como ortesis robóticas, dispositivos de asistencia respiratoria o mecanismos de manipulación en prótesis, donde se requiere precisión y fuerza en el posicionamiento.
 
 <img src="../multimedia/servo_basico.jpg" alt="Gráfico de resultados" width="300">
 
@@ -46,6 +49,7 @@ Permite generar una señal de vibración proporcional a la presión aplicada sob
 <img src="../multimedia/fsr_vibrador.jpg" alt="Gráfico de resultados" width="300">
 
 #### 2. GUANTE FLEX DS3235
+
 
 
 
