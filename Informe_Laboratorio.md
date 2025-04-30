@@ -4,6 +4,9 @@
 
 El propósito principal es hacer que el motor cambié de dirección cada 5 segundos, sin fijarse para ajustar su velocidad. Se usa el módulo L298N, que permite manejar hacia dónde gira el motor simplemente controlando dos pines digitales, IN1 e IN2. El motor utilizado, un GA12-N20 con reductor, es pequeño y eficiente, lo que lo hace ideal para proyectos que necesitan movimientos precisos y con cierta fuerza, como prótesis, mecanismos de posicionamiento o dispositivos portátiles.
 
+![Gráfico de resultados](../multimedia/motor_direccion_basica.jpg)
+
+
 
 #### 2. MOTOR DIRECCION VELOCIDAD
 
@@ -15,10 +18,14 @@ Nos demuestra cómo controlar tanto la dirección como la velocidad de un motorr
 
 #### 5. SERVO DS3235 CONTROL BÁSICO
 
+<img src="../multimedia/servo_basico.jpg" alt="Gráfico de resultados" width="300">
+
 #### 6. VIBRATION MOTOR BASICO
 
 
 En esta actividad se desarrolló un circuito básico para activar un micromotor de vibración tipo coin cell utilizando una placa Arduino UNO y un transistor NPN (como el 2N2222) como interruptor. El objetivo fue demostrar un principio de retroalimentación háptica mediante la generación de vibraciones controladas por una señal digital. El montaje incluyó una resistencia de 1kΩ entre el pin digital 3 del Arduino y la base del transistor, además de un diodo de protección (1N4007) para evitar daños por picos de voltaje inducido. El código cargado en el Arduino activa el motor durante 2 segundos y lo apaga por 1 segundo en un ciclo continuo. Esta práctica introduce el uso de actuadores en sistemas biomédicos para señales táctiles, alarmas silenciosas o estimulación sensorial en contextos de rehabilitación.
+
+<img src="../multimedia/servo_potenciometro.jpg" alt="Gráfico de resultados" width="300">
 
 #### 7. VIBRATION MOTOR POTENCIOMETRO
 
@@ -27,6 +34,8 @@ En esta práctica se implementó un sistema de control de intensidad de vibraci�
 ## PROYECTOS
 
 #### 1. FSR FEEDBAKC VIBRADOR
+
+<img src="../multimedia/fsr_vibrador.jpg" alt="Gráfico de resultados" width="300">
 
 #### 2. GUANTE FLEX DS3235
 
