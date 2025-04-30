@@ -5,7 +5,7 @@
 El propósito principal es hacer que el motor cambié de dirección cada 5 segundos, sin fijarse para ajustar su velocidad. Se usa el módulo L298N, que permite manejar hacia dónde gira el motor simplemente controlando dos pines digitales, IN1 e IN2. El motor utilizado, un GA12-N20 con reductor, es pequeño y eficiente, lo que lo hace ideal para proyectos que necesitan movimientos precisos y con cierta fuerza, como prótesis, mecanismos de posicionamiento o dispositivos portátiles.
 
 
-
+![Gráfico de resultados](../multimedia/motor_direccion_basica.jpg)
 
 
 #### 2. MOTOR DIRECCION VELOCIDAD
