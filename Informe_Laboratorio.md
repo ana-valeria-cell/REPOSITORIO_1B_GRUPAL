@@ -53,5 +53,5 @@ Permite generar una señal de vibración proporcional a la presión aplicada sob
 
 En este proyecto se desarrolló un sistema de control proporcional para un servomotor DS3235 utilizando un sensor flex como entrada analógica, simulando el movimiento de una articulación robótica sin necesidad de una estructura mecánica ni guante físico. El sensor flex fue conectado como un divisor de voltaje y su señal analógica fue leída por el Arduino UNO a través del pin A0. Dicho valor (ADC) fue transformado mediante la función (map) a un ancho de pulso PWM entre 500 y 2400 microsegundos, el cual se envió al servo mediante (writeMicroseconds), generando un movimiento proporcional a la flexión del sensor. Adicionalmente, se calculó el ángulo estimado (de 0° a 265°) para visualizar en tiempo real la relación entre la entrada analógica y la posición del actuador, mostrada por el monitor serial. Aunque no se utilizó un guante ni una estructura robótica, la práctica permitió integrar conceptos clave de electrónica aplicada como ADC, PWM y control de actuadores, con aplicaciones orientadas al desarrollo de prótesis, interfaces hápticas y sistemas de rehabilitación.
 
-
+<img src="/multimedia/flex_proyecto.jpg" alt="Gráfico de resultados" width="300">
 
