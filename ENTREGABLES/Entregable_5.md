@@ -97,7 +97,9 @@ Ofrecer una cobertura externa que:
 
 ![Gráfico de resultados](../multimedia/protesis2.jpg)
 
-**Estrategia c:**
+**Estrategia c:** El calor alivia espasmos musculares ya que este aumenta el flujo sanguíneo, se puede agregar dentro de los guantes estéticos o dentro de las prótesis en la parte que contenga la extremidad retante para poder disminuir la rigidez articular (imagen de referencia).[3]
+
+<img src="../multimedia/protesis4.jpg" alt="Gráfico de resultados" width="300">
 
 **Estrategia d:** No presentan movimiento, en la fabricación se emplean materiales como el látex flexible o silicona (se podría usar para poder cubrir la prótesis mecánica, prótesis mioeléctricas, hoy en dia son muy caras)[4]
 
@@ -164,7 +166,7 @@ Ejemplos de componentes:
  
 [1]  E. G. Rodríguez, L. G. Cano, y B. S. Pastor, "Actualización en prótesis para amputaciones parciales de mano y dedos," Rehabilitación, vol. 56, no. 4, pp. 375–382, 2022, doi: 10.1016/j.rh.2022.04.002.
 [2]  R. Galán y M. J. Vergara, "Prótesis impresa en 3D para la rehabilitación de amputaciones digitales: presentación de un diseño mecánico," Revista Colombiana de Cirugía Plástica y Reconstructiva, vol. 25, no. 2, 2019.
-[3]  J. L. Brito, M. X. Quinde, D. Cuzco, y J. I. Calle, "Estudio del estado del arte de las prótesis de mano," 2013.
+[3]  Z. Isaac, "Medidas de rehabilitación para el tratamiento del dolor y la inflamación," Manual MSD Versión Para Profesionales, 4 de noviembre de 2023. [En línea]. Disponible en: https://www.msdmanuals.com/es/professional/temas-especiales/rehabilitaci%C3%B3n/medidas-de-rehabilitaci%C3%B3n-para-el-tratamiento-del-dolor-y-la-inflamaci%C3%B3n?ruleredirectid=758
 [4] R. P. P. Andrés, “Desarrollo de una prótesis de mano, acoplable al muñón, para jóvenes con mutilaciones traumáticas,” 2017. [En línea]. Disponible: https://repositorio.puce.edu.ec/items/ba3b433a-55d9-4f59-b253-adba884a183c
 
 
