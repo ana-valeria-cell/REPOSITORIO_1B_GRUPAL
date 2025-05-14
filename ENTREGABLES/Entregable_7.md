@@ -26,3 +26,9 @@ La prótesis será fabricada con materiales ligeros y de bajo costo, utilizando 
 
 La evaluación del proyecto, a partir de los criterios técnicos y económicos de la tabla de valoración, muestra que la estrategia CS1 obtuvo la mayor puntuación, superando a las demás opciones. Esto sugiere que dicha estrategia es la más adecuada en términos de facilidad de uso, portabilidad e innovación, asegurando un equilibrio entre funcionalidad y eficiencia.
 
+## BOCETO DE LA PROPUESTA DE SOLUCIÓN TÉCNICA
+
+<img src="/multimedia/boceto_proyecto.jpg" alt="Gráfico de resultados" width="700">
+
+
+
