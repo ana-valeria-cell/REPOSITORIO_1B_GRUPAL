@@ -28,7 +28,7 @@ La evaluación del proyecto, a partir de los criterios técnicos y económicos d
 
 ## BOCETO DE LA PROPUESTA DE SOLUCIÓN TÉCNICA
 
-<img src="/multimedia/boceto_proyecto.jpg" alt="Gráfico de resultados" width="700">
+<img src="/multimedia/BOCETO_NUEVO.jpg" alt="Gráfico de resultados" width="700">
 
 
 
